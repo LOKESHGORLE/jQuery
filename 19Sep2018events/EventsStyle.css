@@ -1,0 +1,31 @@
+﻿body {
+    background-color: powderblue;
+    background-image :url(background.jpg);
+   background-size:100%;
+}
+
+/*call by class*/
+.lokesh {
+    background-color: green;
+}
+.tablebg {
+    background-color: green;
+}
+
+
+
+/*call by id
+#Qualification {
+    color: white;
+}*/
+
+.bluefont {
+    color: blue;
+}
+.whitefont{
+    color:white;
+}
+.listclass {
+    color:aqua;
+    font-size:larger;
+}
