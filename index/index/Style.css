@@ -1,0 +1,17 @@
+﻿body {
+    background-color: powderblue;
+    
+}
+
+/*call by class*/
+.lokesh {
+    background-color: green;
+}
+
+
+/*call by id*/
+#Qualification {
+    color: white;
+}
+
+
